@@ -1,0 +1,19 @@
+{
+  "name": "media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Profesional de JavaScript - Platzi",
+  "author": "David Sánchez Quispe <davidsqr6@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "media",
+    "player",
+    "js",
+    "javascript"
+  ],
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
